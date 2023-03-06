@@ -55,22 +55,49 @@ Select the ticket we created in Step 1.
 <a href="https://imgur.com/2V312mn"><img src="https://i.imgur.com/2V312mn.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Priority: Emergency.
+
+ The mobile online banking app is high priority because it prevents users from using.
+
+  -Assigned to: Jane Doe
+
+  SLA Plan: SEV-A
+
+  -Business Impacting, critical incident
+
+  Department: System Administrators
+
+  -Sys Admins responsible for mobile banking infrastructure
+Response text box: Currently cooperating with the System Admin Team to get the problem solved.
+
+  Select Post Reply
+</p>
+
+<br />
+
+<p>
+<a href="https://imgur.com/mlCDZkG"><img src="https://i.imgur.com/mlCDZkG.png" title="source: imgur.com" /></a>
+</p>
+<p>
+<h2> Resolving the Issue</h2>
+  
+  - Jane and the system admin team coordinate to solve the issue.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/EBlBgN4"><img src="https://i.imgur.com/EBlBgN4.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Reolution</h2>
+Once the issue is resolved, head back to the ticket and update the server.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-Response text box: Dan was able to find a solution. Ticket closed.
+
+-Ticket Status: Resolved
+Select Post Reply
+Observe the ticket presenting "closed".
+<a href="https://imgur.com/rFCRgrK"><img src="https://i.imgur.com/rFCRgrK.png" title="source: imgur.com" /></a>
+
 </p>
 <br /> 
