@@ -8,7 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### (https://https://www.youtube.com/watch?v=5Yxfe85KZGk)
+- ### (https://www.youtube.com/watch?v=5Yxfe85KZGk)
 
 <h2>Environments and Technologies Used</h2>
 
